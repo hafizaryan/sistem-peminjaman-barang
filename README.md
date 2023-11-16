@@ -8,23 +8,14 @@ Sistem Informasi Peminjaman Infokus Berbasis Website merupakan sistem yang dapat
 
 ## Penggunaan Login Akses
 
-<b>Admin SIPOCUS : </b>
+<b>Admin : </b>
 <br/>
 Username : admin
 <br/>
 Password : admin
 
-<b>Mahasiswa SIPOCUS :</b>
+<b>Mahasiswa :</b>
 <br/>
 Username : anggi
 <br/>
 Password : 1234
-
-## Contributors
-<a href="https://www.instagram.com/anggimulya.21/">Anggi Mulya</a>
-<a href="https://www.instagram.com/ahmadd22___/">Ahmad Dhani</a>
-<a href="https://www.instagram.com/atta.kur/">Atha Kurniawan</a>
-<a href="https://www.instagram.com/meriana_p.n/">Meriana Prihati Ningrum</a>
-<a href="https://www.instagram.com/andhika.frzl/">M. Andhika Fakhrizal</a>
-<a href="https://www.instagram.com/janeastridariani/">Jane Astrid Ariani</a>
-<a href="https://www.instagram.com/inoordinatus/">Inoordinatus</a>
